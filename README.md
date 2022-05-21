@@ -3,7 +3,6 @@ ____
 ## Установка
 ```
     https://github.com/SoLoro/Default-Prediction-Model-DataScience.git
-    
 ```
 ____
 ## Языки программирования
